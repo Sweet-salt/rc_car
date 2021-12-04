@@ -1,0 +1,51 @@
+body{
+    position: relative;
+    
+}
+
+body .joystick {
+    position: absolute;
+    width: 700px;
+    height: 350px;
+    background-position: center;
+}
+body h1{
+    text-align: center;
+}
+body h2{
+    margin-top: 400px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#up{
+    position: absolute;
+    top: 186px;
+    left: 455px;
+    
+}
+#stop{
+    position: absolute;
+    top: 186px;
+    left: 533px;
+}
+
+#left{
+    position: absolute;
+    top: 186px;
+    left: 152px;
+}
+
+#right{
+    position: absolute;
+    top: 186px;
+    left: 220px;
+}
+
+#back{
+    position: absolute;
+    top: 210px;
+    left: 182px;
+}
